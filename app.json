@@ -1,8 +1,8 @@
 {
-    "name": "VIHANA MD",
+    "name": "BLACK ALPHA MD",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
-    "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
+    "logo": "https://telegra.ph/file/ef85650aefce7ff31ed9c.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
   
@@ -48,13 +48,65 @@
     },
         
         "WELCOME_MSG" :{
-    "description" : "TYPE WELCOME MSG",
+    "description" : "
+
+╔═════ೋೋ═════╗🍇🆁🅴🅳  🅳🆁🅰🅶🅾🍇
+
+🍒𝘴𝘶𝘯𝘦𝘵𝘩 𝘔𝘋🍒
+
+☔ ***කුඩේ* ඕනි වහින වෙලාවට විතරයි* 💔 ` _``වැහැලා ඉවර උනාම හැමෝටම කුඩේ අමතක වෙනවා..._ ``* ` 😒😔😔❤️⃝😒ꦿ *࿔*
+
+░▓▓▓▓▓▓▓▓▓▓▓░
+
+😓 *අපූරුයි නුඹේ බැගෑපත්  වචන* .😔
+
+░▓▓▓▓▓▓▓▓▓▓▓░
+
+🍇🍇🍇My whats app bot🍇🍇🍇🍇┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈│
+
+│▓KING WHATS APP │BOT🍇
+
+│▓BLACK WHATS │APP BOT🍇
+
+│▓RED DRAGON │WHATS APP BOT🍇
+
+┋┋┋┋┋┋┋┋┋┋┋┋┋
+
+│🍒මාගේ  about 🍒
+
+│✨☙➘➘➘➘➘❃✨
+
+│ *තිබ්බේ ආදරයක් හදවත් දෙකකින් ටිකෙන් ටික යද්දි වුනේ එය තනි හදවතකින් 😓 ඇඩුනේ මට තනි ඇහැකින්* 😒
+
+┆▓▓▓▓▓▓▓▓▓▓▓▓
+
+┋░▓▓▓▓▓▓▓▓▓▓▓░
+
+┋❑ *ප්‍රශ්නයක් ┋අහන්නද ┋ලස්සනයිද ┋ජීවිතේ.....* ❑
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+❑ *මගේ ජීවිතේ ලස්සනයි මොකද කෙල්ලෙක් මට නෑ* ☺️
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+☺️☺️
+
+❑ *ලස්සනද ඔයාගේ ජීවිතේ* ❑
+
+ *කියන්න බලන්න ???* 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+💔💔💔💔💔💔💔
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓",
     "required" : true,
   "value" : "*HELLO WELCOME TO OUR GROUP*"
     },
   
                 "BYE_MSG" :{
-    "description" : "TYPE BYE MSG",
+    "description" : "යනවනම් පලයන් අල්ලගත්තේ නෑ පැත්ත පලාතේ එන්නනම් එපා 😅,
     "required" : true,
   "value" : "*BYE BRO*"
     },
@@ -116,7 +168,7 @@
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "BLACK ALPHA 𝐌𝐃"
     },
       
 "OWNER_NAME" :{
